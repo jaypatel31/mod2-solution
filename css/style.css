@@ -61,7 +61,7 @@ p{
         float:left;
     }
     .mini{
-        height:200px;
+        height:250px;
     }
     .row > div:nth-child(3) div.mini{
         width:95%;
@@ -78,7 +78,7 @@ p{
         float:left;
     }
     .mini{
-        height:200px
+        height:270px
     }
     .col-lg-4{
         width:33.33%;
